@@ -1,0 +1,9 @@
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\bin\Debug\bin2dec.exe.config
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\bin\Debug\bin2dec.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\bin\Debug\bin2dec.pdb
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.csprojResolveAssemblyReference.cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.Form1.resources
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.Properties.Resources.resources
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.csproj.GenerateResource.Cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\bin2dec\bin2dec\obj\Debug\bin2dec.pdb
